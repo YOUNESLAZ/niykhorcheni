@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+.git
+.gitignore
+*.pdf
+*.tex
+*.log
+*.aux
+*.out
+node_modules
+venv
+.venv
+test_api.py
+codebase_analysis.md
+task.md
+implementation_plan.md
+walkthrough.md

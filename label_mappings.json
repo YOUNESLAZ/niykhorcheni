@@ -1,0 +1,5 @@
+{
+    "proto": {"tcp": 1, "udp": 2, "icmp": 3, "arp": 4, "mobility": 5},
+    "service": {"http": 1, "ftp": 2, "smtp": 3, "ssh": 4, "dns": 5, "ftp-data": 6, "irc": 7},
+    "state": {"FIN": 1, "CON": 2, "INT": 3, "REQ": 4, "RST": 5}
+}
